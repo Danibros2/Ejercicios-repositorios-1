@@ -24,6 +24,6 @@ Daniel Ceña González
   2 git diff
   3 git commit -m "Añadido capítulo 3 sobre gestión de ramas" (hace falta hacer un git add antes)
 
-6 1 git diff
+6 1 git log
   2 git commit --amend -m "Añadido capítulo 3 sobre gestión de ramas al índice"
   3 git diff
